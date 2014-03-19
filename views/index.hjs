@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<title>Orchestrate.js Example</title>
+<body>
+<h1>Super awesome social network</h1>
+<a href="/users/create">Create New User</a>
+<a href="/users/search">Search For Users</a>

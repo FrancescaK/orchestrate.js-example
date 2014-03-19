@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<title>Orchestrate.js Example</title>
+<body>
+<form method="post" action="/users">
+  <input type="text" name="name" placeholder="Name" />
+  <input type="text" name="email" placeholder="Email..." />
+  <input type="text" name="hometown" placeholder="Hometown..." />
+  <input type="text" name="twitter" placeholder="Twitter..." />
+  <input type="submit" value="Create" />
+</form>

@@ -1,0 +1,4 @@
+<!DOCTYPE html>
+<title>Orchestrate.js Example</title>
+<body>
+{{name}}, {{email}}, {{hometown}}, {{twitter}}

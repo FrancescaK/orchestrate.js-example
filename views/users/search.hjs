@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<title>Orchestrate.js Example</title>
+<body>
+<form method="get" action="/users/search">
+  <input type="text" name="q" placeholder="Search" />
+</form>
+{{#results}}
+  <a href="/users/{{value.email}}">{{value.name}}, {{value.email}}, {{value.hometown}}, {{value.twitter}}</a>
+{{/results}}
