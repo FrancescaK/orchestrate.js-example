@@ -9,6 +9,6 @@ This tutorial uses [Bowery](http://bowery.io) to run, making it super easy to ge
 Once you've installed Bowery...
 
 ```
-$ git clone https://github.com/Bowery/orchestrate.js-example.git
+$ git clone https://github.com/Bowery/orchestrate.js-example.git && cd orchestrate.js-example
 $ bowery connect
 ```
