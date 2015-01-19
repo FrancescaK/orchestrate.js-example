@@ -1,4 +1,10 @@
 <!DOCTYPE html>
 <title>Orchestrate.js Example</title>
 <body>
-{{name}}, {{email}}, {{hometown}}, {{twitter}}
+<ul>
+  <li>Name: {{name}}</li>
+  <li>Email: {{email}}</li>
+  <li>Hometown: {{hometown}}</li>
+  <li>Twitter: {{twitter}}</li>
+</ul>
+<a href="/users/search">back</a>
