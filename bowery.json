@@ -1,8 +1,0 @@
-{
-  "web": {
-    "image": "node",
-    "path": ".",
-    "build": "npm install",
-    "start": "ORCHESTRATE_KEY=your_key_here node app.js"
-  }
-}
